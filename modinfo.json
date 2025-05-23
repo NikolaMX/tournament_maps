@@ -1,0 +1,31 @@
+{
+  "context": "client",
+  "identifier": "nik.2v2_tourney_maps",
+  "display_name": "Map Pack for Faction Wars 2v2 tournament",
+  "description": "A selection of unique and fun maps for 2v2 Shared and Unshared",
+  "author": "Various, compiled by NikolaMX",
+  "version": "1.0.0",
+  "build": "120799",
+  "date": "2025/5/23",
+  "signature": "not yet implemented",
+  "forum": "https://forums.uberent.com/threads/pwn4twos-map-pack.70689/",
+  "icon": "",
+  "category": [
+	  "map",
+	  "pack",
+	  "maps",
+	  "system",
+	  "planets",
+	  "planet",
+	  "systems"
+    ],
+    "load_planet": [
+        "coui://ui/mods/2v2_tourney/maplist.js"
+    ],
+	"priority": 100,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.anonemous2.alienworlds.released.server"
+
+    ]
+}
