@@ -21,7 +21,9 @@
     ],
 	"priority": 100,
     "dependencies": [
-        "com.pa.anonemous2.alienworlds.released.server"
+        "com.pa.anonemous2.alienworlds.released.server",
+        "com.pa.anonemous2.alienworlds.released.client"
+
 
     ]
 }
