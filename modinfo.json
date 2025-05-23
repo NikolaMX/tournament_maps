@@ -20,7 +20,6 @@
         "coui://ui/mods/2v2_tourney/maplist.js"
     ],
 	"priority": 100,
-    "enabled": true,
     "dependencies": [
         "com.pa.anonemous2.alienworlds.released.server"
 
