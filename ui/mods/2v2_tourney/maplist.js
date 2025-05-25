@@ -1,4 +1,4 @@
-cShareSystems.load_pas("Factions 2v2 NS", [
+cShareSystems.load_pas("Z-Factions 2v2 NS", [
 "coui://ui/mods/2v2_tourney/systems/insanateria 2v2 ns.pas",
 "coui://ui/mods/2v2_tourney/systems/abstract 2v2 ns.pas",
 "coui://ui/mods/2v2_tourney/systems/cobble_pass 2v2 ns.pas",
