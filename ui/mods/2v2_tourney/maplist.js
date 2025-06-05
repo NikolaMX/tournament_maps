@@ -10,5 +10,6 @@ cShareSystems.load_pas("Z-Factions 2v2 NS", [
 "coui://ui/mods/2v2_tourney/systems/tandem 2v2 ns.pas",
 "coui://ui/mods/2v2_tourney/systems/thief's pass 2v2 ns.pas",
 "coui://ui/mods/2v2_tourney/systems/tropicanhoneydonut 2v2 ns.pas",
-"coui://ui/mods/2v2_tourney/systems/verity's canal 2v2 ns.pas"
+"coui://ui/mods/2v2_tourney/systems/verity's canal 2v2 ns.pas",
+"coui://ui/mods/2v2_tourney/systems/horeline 2v2 ns.pas"
 ]);
